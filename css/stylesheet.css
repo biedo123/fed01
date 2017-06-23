@@ -1,0 +1,9 @@
+#monsterdetails{
+    width:50%;
+    float: right;
+    list-style-type: none;
+}
+#monstermanual{
+    width:50%;
+    float: left;;
+}
